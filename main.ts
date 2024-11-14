@@ -182,3 +182,11 @@ let mySprite2 = sprites.create(img`
     .....666.66.....
     `, SpriteKind.Player)
 mySprite2.setPosition(153, 88)
+for (let index = 0; index < 4; index++) {
+	
+}
+if (true) {
+	
+} else {
+	
+}
