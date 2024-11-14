@@ -176,3 +176,4 @@ let mySprite2 = sprites.create(img`
     .....666.66.....
     `, SpriteKind.Player)
 mySprite2.setPosition(153, 88)
+music.play(music.stringPlayable("- - - - - - - - ", 120), music.PlaybackMode.UntilDone)
